@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Yashkumar Barot
-- 👀 I’m interested in High Performance Computing.
+- 👋 Hi, I’m Yash Barot
+- 👀 Trinity collage Dublin Msc High Performance Computing.
