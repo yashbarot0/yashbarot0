@@ -72,34 +72,3 @@ Cloud:       Firebase • Supabase • Render
 *Last updated: November 15, 2025 • 11:53 AM GMT*  
 *Profile auto-refreshes with every commit*
 ```
-
----
-
-## DEPLOY IN 30 SECONDS
-
-1. Go to: **https://github.com/yashbarot0/yashbarot0**  
-   *(Create if missing — must be `yashbarot0`)*
-2. **Add file** → **Create new file**
-3. Name: `README.md`
-4. **Paste the entire code above**
-5. **Commit** ("Launch profile README")
-
-**LIVE IN 60 SECONDS**
-
----
-
-## YOUR DIGITAL EMPIRE (LIVE NOW)
-
-| Platform | URL | Purpose |
-|--------|-----|--------|
-| **Portfolio** | [baroot.dev](https://baroot.dev) | Projects showcase |
-| **Blog** | [baroot.me](https://baroot.me) | Tech writing |
-| **GitHub Profile** | [github.com/yashbarot0](https://github.com/yashbarot0) | **This README** |
-| **X** | [@yashbarot6312](https://x.com/yashbarot6312) | Updates & networking |
-
----
-
-**Reply “Profile live?”** — I’ll verify it’s **100% rendered with live stats**.
-
-You’re now **discoverable, professional, and auto-updating**.  
-Go push it — your future is loading.
